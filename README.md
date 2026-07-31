@@ -1,1 +1,20 @@
-# C-Programming-Practice
+# C Programming Practice
+
+This repository contains my practice code and exercises while learning C programming
+from the [CodeWithHarry C Language Course](https://www.codewithharry.com).
+
+## 📚 About
+I'm a first-year BCA student building a strong foundation in programming, 
+Data Structures & Algorithms, and software development — with the goal of 
+becoming a software developer.
+
+## 🗂️ Structure
+```C-Programming-Practice/
+├── Chapter1/       - Variables, constants, keywords
+├── Chapter2/       - Operators
+├── Chapter3/       - Conditionals
+└── Chapter4/       - Loops
+```
+
+## 🔗 Connect
+Feel free to check out my other repos as I continue this journey toward becoming a software developer!
