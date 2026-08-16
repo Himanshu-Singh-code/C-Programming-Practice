@@ -8,12 +8,12 @@ I'm a first-year BCA student building a strong foundation in programming,
 Data Structures & Algorithms, and software development — with the goal of 
 becoming a software developer.
 
-## 🗂️ Structure
+## 🗂️ PROGRESS
+
 ```C-Programming-Practice/
-├── Chapter1/       - Variables, constants, keywords
-├── Chapter2/       - Operators
-├── Chapter3/       - Conditionals
-└── Chapter4/       - Loops
+├── Chapter1/       - Constants, keywords DONE
+├── Chapter2/       -  Variables and Operators DONE
+├── Chapter3/       - Conditionals NEXT
 ```
 
 ## 🔗 Connect
