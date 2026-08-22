@@ -13,7 +13,9 @@ becoming a software developer.
 ```C-Programming-Practice/
 ├── Chapter1/       - Constants, keywords DONE
 ├── Chapter2/       -  Variables and Operators DONE
-├── Chapter3/       - Conditionals NEXT
+├── Chapter3/       - Conditionals
+├── Chapter4/       - loops NEXT !
+
 ```
 
 ## 🔗 Connect
