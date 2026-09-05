@@ -13,10 +13,11 @@ becoming a software developer.
 ```C-Programming-Practice/
 ├── Chapter1/       - Constants, keywords DONE
 ├── Chapter2/       -  Variables and Operators DONE
-├── Chapter3/       - Conditionals
-├── Chapter4/       - loops NEXT !
+├── Chapter3/       - Conditionals DONE
+├── Chapter4/       - loops DONE
+├── Chapter5/       - functions 
 
 ```
 
 ## 🔗 Connect
-Feel free to check out my other repos as I continue this journey toward becoming a software developer!
+Feel free to check out my other repos as I continue on this journey ! 
