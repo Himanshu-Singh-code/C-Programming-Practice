@@ -15,7 +15,8 @@ becoming a software developer.
 ├── Chapter2/       -  Variables and Operators DONE
 ├── Chapter3/       - Conditionals DONE
 ├── Chapter4/       - loops DONE
-├── Chapter5/       - functions 
+├── Chapter5/       - functions SOON
+
 
 ```
 
