@@ -16,7 +16,9 @@ becoming a software developer.
 ├── Chapter3/       - Conditionals DONE
 ├── Chapter4/       - loops DONE
 ├── Chapter5/       - functions DONE
-├── Chapter6/       - Pointers SOON
+├── Chapter6/       - Pointers DONE
+├── Chapter7/       - Arrays SOON !
+ 
 
 
 
