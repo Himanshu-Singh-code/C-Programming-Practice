@@ -17,8 +17,8 @@ becoming a software developer.
 ├── Chapter4/       - loops DONE
 ├── Chapter5/       - functions DONE
 ├── Chapter6/       - Pointers DONE
-├── Chapter7/       - Arrays SOON !
- 
+├── Chapter7/       - Arrays  DONE
+├── Chapter8/       - Strings SOON ! 
 
 
 
