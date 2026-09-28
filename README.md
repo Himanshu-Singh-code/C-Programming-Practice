@@ -19,7 +19,9 @@ becoming a software developer.
 ├── Chapter6/       - Pointers DONE
 ├── Chapter7/       - Arrays  DONE
 ├── Chapter8/       - Strings DONE
-├── Chapter9/       - Structure SOON !
+├── Chapter9/       - Structure DONE
+├── Chapter10/      - FILE I/O  SOON ! 
+
 
 
 
