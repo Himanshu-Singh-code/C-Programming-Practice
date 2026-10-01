@@ -20,7 +20,8 @@ becoming a software developer.
 ├── Chapter7/       - Arrays  DONE
 ├── Chapter8/       - Strings DONE
 ├── Chapter9/       - Structure DONE
-├── Chapter10/      - FILE I/O  SOON ! 
+├── Chapter10/      - FILE I/O  DONE  
+├── Chapter11/      - DYNAMIC MEMORY ALLOCATION SOON !  
 
 
 
