@@ -11,17 +11,17 @@ becoming a software developer.
 ## 🗂️ PROGRESS
 
 ```C-Programming-Practice/
-├── Chapter1/       - Constants, keywords DONE
-├── Chapter2/       -  Variables and Operators DONE
-├── Chapter3/       - Conditionals DONE
-├── Chapter4/       - loops DONE
-├── Chapter5/       - functions DONE
-├── Chapter6/       - Pointers DONE
-├── Chapter7/       - Arrays  DONE
-├── Chapter8/       - Strings DONE
-├── Chapter9/       - Structure DONE
-├── Chapter10/      - FILE I/O  DONE  
-├── Chapter11/      - DYNAMIC MEMORY ALLOCATION DONE
+├── Chapter1/       - Constants, keywords 
+├── Chapter2/       -  Variables and Operatora
+├── Chapter3/       - Conditionals 
+├── Chapter4/       - loops 
+├── Chapter5/       - functions 
+├── Chapter6/       - Pointers 
+├── Chapter7/       - Arrays  
+├── Chapter8/       - Strings 
+├── Chapter9/       - Structure 
+├── Chapter10/      - FILE I/O  
+├── Chapter11/      - DYNAMIC MEMORY ALLOCATION 
 
 
 
