@@ -21,12 +21,18 @@ becoming a software developer.
 ├── Chapter8/       - Strings DONE
 ├── Chapter9/       - Structure DONE
 ├── Chapter10/      - FILE I/O  DONE  
-├── Chapter11/      - DYNAMIC MEMORY ALLOCATION SOON !  
+├── Chapter11/      - DYNAMIC MEMORY ALLOCATION DONE
 
 
 
+AND WITH ALL THIS :
+ I AM OFFICIALLY DONE  WITH MY C BASICS (DATE - 2 OCTOBER , 2026 )
 
 ```
+## AUTHOR :
+Himanshu Singh 
+
 
 ## 🔗 Connect
+connect with me on my email : hssingh7222@gmail.com
 Feel free to check out my other repos as I continue on this journey ! 
